@@ -7,6 +7,7 @@ Author : StarSink
 File : 树洞签到.py
 cron : * * * * *
 new Env('树洞签到')
+host : https://helloshudong.com/
 """ 
 from time import sleep
 import requests
